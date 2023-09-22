@@ -1,4 +1,5 @@
 # Entrega-Edge
+Primeira Imagem:
 
 import requests
 import json
@@ -31,4 +32,11 @@ if response.status_code == 200:
 else:
     print("Erro na solicitação: Código de status", response.status_code)
 
-    ![image](https://github.com/Rodrigooou/Entrega-Edge/assets/126582881/3452e23f-c787-4059-87e9-c642811b6db1)
+
+
+
+
+
+
+
+
