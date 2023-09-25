@@ -1,5 +1,5 @@
 # Entrega-Edge
-Primeira Imagem:
+#Primeira Imagem:
 
 import requests
 import json
@@ -38,7 +38,7 @@ else:
 
 
 
-Segunda imagem:
+#Segunda imagem:
 
 
 
