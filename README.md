@@ -36,7 +36,12 @@ else:
 
 
 
+
+
 Segunda imagem:
+
+
+
 import requests
 
 import matplotlib.pyplot as plt
