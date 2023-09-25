@@ -1,5 +1,5 @@
 # Entrega-Edge
-#Primeira Imagem:
+# Exemplo 1 Gráfico
 
 import requests
 import json
@@ -37,8 +37,7 @@ else:
 
 
 
-
-#Segunda imagem:
+# Exemplo 2 Gráfico
 
 
 
